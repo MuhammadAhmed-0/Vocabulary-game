@@ -40,12 +40,12 @@ To run the game locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/vocabulary-challenge.git
+    git clone https://github.com/yourusername/vocabulary-game.git
     ```
 
 2. **Open the project folder**:
     ```bash
-    cd vocabulary-challenge
+    cd vocabulary-game
     ```
 
 3. **Open the `index.html` file** in your web browser.
